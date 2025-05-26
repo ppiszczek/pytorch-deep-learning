@@ -1,0 +1,17 @@
+joblib
+pyperclip # to copy to clipboard
+simplejson # to read json files
+# modelling
+numpy
+pandas
+scipy
+scikit-learn
+torch
+# data
+pyarrow
+cloudpickle
+# VS Code 
+ipykernel
+ipywidgets 
+# SLS custom packages
+# pp_tools
